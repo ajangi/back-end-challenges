@@ -8,3 +8,5 @@ In this challenge you will develop two APIs. Feel free to use what language you 
   <img src="https://img.shields.io/badge/-Git-2c3e50?style=flat&logo=Git&labelColor=34495e"/>
   <img src="https://img.shields.io/badge/-Docker-2c3e50?style=flat&logo=Docker&labelColor=34495e"/>
 </p>
+
+#### [2- Vacancies Challenge](vacancies-challenge/Readme.md)
